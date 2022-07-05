@@ -1,7 +1,7 @@
 ### Hi, 👋 I'm Rafael Alves da Costa
 
 
-- 🔭 I’m currently working as a tester on uTest
+- 🔭 I’m currently working as a tester on <a href="https://www.utest.com/">uTest</a>
 - 🌱 I’m currently learning Javascript, QA, Dart, Flutter
 - 📫 How to reach me rafalves.costa@gmail.com
 - ⚡ Fun fact I like to 💪🏽, 🎸, and 👨🏽‍🍳🥖.
