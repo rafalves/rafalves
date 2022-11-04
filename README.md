@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working as a tester on <a href="https://www.utest.com/">uTest</a>
-- 🌱 I’m currently learning Javascript, QA, Dart, Flutter
+- 🌱 I’m currently learning Javascript, QA, Dart, Flutter, Python, Node, and going on!
 - 📫 How to reach me rafalves.costa@gmail.com
 - ⚡ Fun fact I like to 💪🏽, 🎸, and 👨🏽‍🍳🥖.
 
