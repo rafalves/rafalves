@@ -1,8 +1,9 @@
 ### Hi, 👋 I'm Rafael Alves da Costa
 
 
-- 🔭 I’m currently working as a tester on <a href="https://www.utest.com/">uTest</a>
-- 🌱 I’m currently learning Javascript, QA, Dart, Flutter, Python, Node, and going on!
+- 🔭 I’m currently working as a tester on <a href="https://www.utest.com/">uTest</a>, and running a small e-commerce.
+- 🌱 I’m currently learning about marketing, desing and product creation.
+- 💻 I'm know QA manual Tests, Javascript, Node, Express, Vue, Nuxt, Puppeteer, Dart, Flutter, and going on!
 - 📫 How to reach me rafalves.costa@gmail.com
 - ⚡ Fun fact I like to 💪🏽, 🎸, and 👨🏽‍🍳🥖.
 
