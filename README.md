@@ -1,12 +1,10 @@
-### Hi, 👋 I'm Rafael Alves da Costa
+### Hi, 👋 I'm Rafael Alves
 
 
-- 🔭 I’m currently working as a tester on <a href="https://www.utest.com/">uTest</a>, and running a small e-commerce.
-- 🌱 I’m currently learning about marketing, desing and product creation.
+- 🔭 I’m currently working as a tester on <a href="https://www.utest.com/">uTest</a>, running a small e-commerce, and doing small freelancer jobs.
+- 🌱 My goal is to specialize in marketing, desing and product creation for web.
 - 💻 I know about QA Manual Tests, Javascript, Node, Express, Vue, Nuxt, Strapi v4, Puppeteer, Dart, Flutter, and going on!
-- 📫 How to reach me rafalves.costa@gmail.com
+- 👷🏽‍♂️ My current stack are Nuxt 3, Strapi v4, and Puppeteer, later I prettend to focus on porting my project to Flutter mobile apps (I miss studying Flutter...💙). 
 - ⚡ Fun fact I like to 💪🏽, 🎸, and 👨🏽‍🍳🥖.
 
 
-<h3 align="left"> 👨🏽‍💻 Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://dart.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" alt="dart" width="40" height="40"/> </a> <a href="https://flutter.dev/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a> <a href="https://developer.android.com/studio" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" alt="android studio" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>  <a href="https://github.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" alt="github" width="40" height="40"/> </a> </p>
