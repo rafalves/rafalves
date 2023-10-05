@@ -7,4 +7,5 @@
 #### - ⚡ Fun fact I like to 💪🏽, 🎸, and 👨🏽‍🍳🥖
 #### - I am from Brazil, available to work remotely - PT-BR/EN
 
-### - My website portfolio [rafalves.website](http://www.rafalves.website)
+#### - My website portfolio [rafalves.website](http://www.rafalves.website)
+#### - My E-commerce Blog [melhores-compras.online](http://www.melhores-compras.online) (using nuxt 3, strapi v4 - headless cms and backend, postgress, deployed on vps, seo and structure data) - currently in progress 
