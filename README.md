@@ -1,10 +1,10 @@
-### Hi, 👋 I'm Rafael Alves
+## Hi, 👋 I'm Rafael Alves 
 
+#### - 🔭 I’m currently working as a freelancer and creating my own products
+#### - 🌱 Specializing in marketing, design, and product creation, let's deliver good products 🚀
+#### - 👷🏽‍♂️ My current stack is Nuxt 3 (Web Apps), Flutter (Mobile/Desktop), Backend (Node Express/Nitro-H3)
+#### - 💻 I know about QA Manual Tests, Javascript, Typescript Node, Express, Vue 3, Nuxt 3, Strapi v4, Puppeteer, Dart, Flutter, deploy on VPS, Linux, and going on!
+#### - ⚡ Fun fact I like to 💪🏽, 🎸, and 👨🏽‍🍳🥖
+#### - I am from Brazil, available to work remotely - PT-BR/EN
 
-- 🔭 I’m currently working as a freelancer, making websites, small systems and, remote support
-- 🌱 My goal is to specialize in marketing, design, and product creation for the web
-- 💻 I know about QA Manual Tests, Javascript, Node, Express, Vue, Nuxt, Strapi v4, Puppeteer, Dart, Flutter, and going on!
-- 👷🏽‍♂️ My current stack are Nuxt 3, Strapi v4, and Puppeteer, later I pretend to focus on porting my project to Flutter mobile apps (I miss studying Flutter...💙) 
-- ⚡ Fun fact I like to 💪🏽, 🎸, and 👨🏽‍🍳🥖
-
-
+### - My website portfolio [rafalves.website](http://www.rafalves.website)
