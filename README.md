@@ -8,4 +8,5 @@
 #### - I am from Brazil, available to work remotely - PT-BR/EN
 
 #### - My website portfolio [rafalves.website](http://www.rafalves.website)
-#### - My E-commerce Blog [melhores-compras.online](http://www.melhores-compras.online) (using nuxt 3, strapi v4 - headless cms and backend, postgress, deployed on vps, seo and structure data) - currently in progress 
+
+#### - My E-commerce/Blog/Affiliate [melhores-compras.online](http://www.melhores-compras.online) Front: Nuxt 3; Back: Strapi v4 - (headless cms, assets provider), NitroJS (micro-services, automation); DB: Postgres (Strapi DB); Automation: Sharp (image manipulation), Twitter Post Bot, Telegram Post Bot - currently in progress 
