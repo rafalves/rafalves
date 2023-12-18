@@ -10,7 +10,7 @@
 ## - Portfolio 
 #### - My website portfolio [rafalves.website](http://www.rafalves.website) (in progress) 
 #### - Landing Page 2 [https://lp-ttbox.vercel.app/](https://lp-ttbox.vercel.app) 
-#### - Landing Page 1 [https://portfolio-landing-page-pedro-sobral.vercel.app)](https://portfolio-landing-page-pedro-sobral.vercel.app) 
+#### - Landing Page 1 [https://portfolio-landing-page-pedro-sobral.vercel.app](https://portfolio-landing-page-pedro-sobral.vercel.app) 
 #### - My E-commerce/Blog/Affiliate [melhores-compras.online](http://www.melhores-compras.online)
   - Posts  [www.melhores-compras.online/posts](https://www.melhores-compras.online/posts)
 
