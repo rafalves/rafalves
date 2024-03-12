@@ -1,18 +1,27 @@
 ## Hi, 👋 I'm Rafael Alves 
 
-#### - 🔭 I’m currently working as a QA Tester
+#### - 🔭 I’m currently working as a QA Tester and Freelancer
 #### - 🌱 Specializing in marketing, design, analytics, SEO, and product creation, let's create amazing products 🚀
-#### - 👷🏽‍♂️ Current stack is Nuxt 3 (Web Apps), Flutter (Mobile/Desktop), Backend (Node Express/Nitro-H3)
+#### - 👷🏽‍♂️ Current main stack: Nuxt 3 (SPA, SSR), Flutter (Mobile/Desktop), Backend (Nodejs: Nitro-H3/AdonisJS)
 #### - ⚡ Fun fact I like to 💪🏽, 🎸, and 👨🏽‍🍳🥖
 
-#### - I am from Brazil, available to work remotely - PT-BR/EN
+#### - I am from Brazil, available to work remotely worldwide - PT-BR/EN
 
-## - Portfolio 
-#### - My website portfolio [rafalves.website](http://www.rafalves.website) (in progress) 
-#### - Landing Page 2 [https://lp-ttbox.vercel.app/](https://lp-ttbox.vercel.app) 
-#### - Landing Page 1 [https://portfolio-landing-page-pedro-sobral.vercel.app](https://portfolio-landing-page-pedro-sobral.vercel.app) 
-#### - My E-commerce/Blog/Affiliate [melhores-compras.online](http://www.melhores-compras.online)
-  - Posts  [www.melhores-compras.online/posts](https://www.melhores-compras.online/posts)
+#### - Check out my freelancing web site: [tenhaseu.site](http://tenhaseu.site)
 
+#### - My E-commerce/Blog/Affiliate [melhores-compras.online](http://www.melhores-compras.online) Front: Nuxt 3; Back: Strapi v4 - (headless cms, assets provider), NitroJS (micro-services, automation); DB: Postgres (Strapi DB); Automation: Sharp (image manipulation), Twitter Bot Post, Telegram Bot Post- (currently dead, project idea failed) 
 
-#### - My E-commerce/Blog/Affiliate [melhores-compras.online](http://www.melhores-compras.online) Front: Nuxt 3; Back: Strapi v4 - (headless cms, assets provider), NitroJS (micro-services, automation); DB: Postgres (Strapi DB); Automation: Sharp (image manipulation), Twitter Post Bot, Telegram Post Bot - (currently dead, project idea failed) 
+All my skills:
+
+Habilidades:
+
+JavaScript | TypeScript
+React | Next | Vue | Nuxt | Strapi CMS
+HTML | CSS | TailWindCSS | Figma
+Scraper | CheerioJS | PuppeeterJS
+Node | Express | NitroJS | Nestjs | AdonisJS
+Dart | Flutter (Bloc/Provider/ChangeNotifier)
+WordPress | Elementor | WooCommerce
+NoSQL MongoDB, Firebase | SQL (general)
+Git | Git Hub | Git Hub Actions (CI/CD)
+Linux basics, Sys Admin, VPS, SSL, Docker, MP2, Nginx, Cron Jobs 
